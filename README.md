@@ -7,6 +7,6 @@ flowchart TB
     Hermes --> Config["honcho.json\nmemory provider"]
 ```     
 
-[ссылка](docs\bee.md)
+[ссылка](docs\imaiges\bee.jpg)
 
 ### Заголовок 3 уровня
