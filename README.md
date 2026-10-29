@@ -6,3 +6,7 @@ flowchart TB
     Deriver --> LM["LM Studio\nLLM + embeddings"]
     Hermes --> Config["honcho.json\nmemory provider"]
 ```     
+
+[ссылка](./docs/bee.md)
+
+### Заголовок 3 уровня
