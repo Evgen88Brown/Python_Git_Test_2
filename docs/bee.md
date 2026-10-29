@@ -1,3 +1,3 @@
 # Тигренок
 
-[image]("docs\imaiges\bee.jpg")
+[image](".\imaiges\bee.jpg")
