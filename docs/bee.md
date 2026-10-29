@@ -1,3 +1,3 @@
 # Тигренок
 
-[image]("docs\images\bee.jpg")
+![Тигренок](images/bee.jpg)
